@@ -202,15 +202,15 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 10613
 Depends: firmware (>= 8.0)
 Filename: ./debfiles/com.longmen.memsearch_1.5_iphoneos-arm.deb
-Size: 4000342
-MD5sum: 9872aef12543c291b754a0d38fd28790
-SHA1: 1e9f6a087578399e1fe85b2c67586f249e8b642e
-SHA256: 257d445b76e0e7cfcfc9bf888478d905a5449960cc22deb9a1fe10952b271af6
-SHA512: 9151627c9a09158a3419f806bc51ada010e76330b2370a3dc85def5847f2e1713d4e3b20337e74d7accd3755f5eceb91f9b31d6d070c2414e39b91950a637064
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gamegemDp
+Size: 4000340
+MD5sum: f0569ab377e06db358c2faf32deb7643
+SHA1: e89539257faafff01483027c36c8c5a6b9262ad8
+SHA256: 5c24638acf9cd7d65e753b9d651a12b1c63dd18595554caef39fa629d87c0c48
+SHA512: 9ce6a532d52ea7811287736bccbefc59dde921678fd964ff5a0fc11123393bad5a93f9eda873471c13baa6a18f6c6e98269a8fc2333e262bf33545059af4b643
+Homepage: https://longmen06.github.io/Debinfo/gamegem/?p=info
 Description: Dùng gian lận tool cho iOS. Hỗ trợ iPhone và iPad  iOS 8.x
 Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gamegemDp
+Depiction: https://longmen06.github.io/Debinfo/gamegem/?p=info
 Author: Aidoo.TK <aidoo.tk@gmail.com>
 Name: GameGemVN
 dev: longmen06
