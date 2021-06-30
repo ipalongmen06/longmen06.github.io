@@ -260,11 +260,11 @@ Author: AnemoneTeam <anemonetheming@gmail.com>
 dev: anemonetheming
 Icon: file:///Applications/Anemone.app/icon.png
 
-Package: com.longmen06.appleturboboost
+Package: com.michael.appleturboboost
 Architecture: iphoneos-arm
 Version: 0.7.0
 Section: System
-Maintainer: Long Mến <yc992147156@me.com>
+Maintainer: Halo_Michael <yc992147156@me.com>
 Depends: firmware (>= 12.0)
 Conflicts: com.michael.appleilluminator
 Filename: ./debfiles/com.longmen06.appleturboboost_0.7.0_iphoneos-arm.deb
@@ -273,11 +273,11 @@ MD5sum: 3b3fb229c9efe153cdf6288963efc66a
 SHA1: d6ee79806088ed1ff10aa50e876662e09e1ecaf4
 SHA256: c593c79ecbd596793230cbb9de3dd448118d37a1f029f1904d455ffe28ee9992
 SHA512: f1d732753005fcc8ebe7dabe53ecef00f42afc078b906dd32d7e0cee5bfe06d50af5f7e340891f3c584a1200f727629d5790d71c6b664ecd18870163ea734105
-Description: Tăng hết công suất cpu khi chơi game!
- Tăng tốc thiết bị hoạt động hết công xuất cpu 100%!
+Description: Turbo Boost Your Apple!
+ Turbo Boost Your Apple!
  Support iOS12~14.
 Name: Apple Turbo Boost
-Author: Long Mến <yc992147156@me.com>
+Author: Halo_Michael <yc992147156@me.com>
 
 Package: com.longmen06.appstore
 Architecture: iphoneos-arm
@@ -374,6 +374,22 @@ Author: Long Mến
 Sileodepiction:
 Depiction: Biểu tượng Cydia cho kho lưu trữ Long Mến
 Icon: file:///Applications/Cydia.app/Sections/hethongglongmen.png
+
+Package: com.longmen06.hackcodmvng
+Architecture: iphoneos-arm
+Version: 0.0.7
+Section: Tweaks
+Maintainer: luvcrhn
+Installed-Size: 2680
+Filename: ./debfiles/com.longmen06.hackcodmvng_0.0.7_iphoneos-arm.deb
+Size: 1775510
+MD5sum: c530ded2191f8b3bb6fdefc9dd737c42
+SHA1: b41120a665fce08959fc1637cddd94fe27df4e54
+SHA256: e595626b2d20258937f7c33cf4f099c8ebd43bc4a1f2776ba997ac9083b80f86
+SHA512: 86d8652a6e03ee906be68f14ae8f375dd81c8d03ad9fcc47fda0478782c5f2365b34bbb7d9a72b0e9d8edf93da1d1abf0f3917e37a7a46b6726ca4c4dee048e5
+Description: Hack Game CODM VNG cho ios
+Name: HACK CODM VNG
+Author: luvcrhn
 
 Package: com.longmen06.icleanerproVietNam
 Architecture: iphoneos-arm
