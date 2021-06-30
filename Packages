@@ -96,6 +96,29 @@ Description: chèn ảnh Settings ios 12
 Name: BetterSettings (VH)
 Author: Mos
 
+Package: com.longmen.cydiatranslations
+Architecture: iphoneos-arm
+Version: 1.1.32~b1
+Priority: required
+Section: Packaging
+Maintainer: Long Mến <saurik@saurik.com>
+Installed-Size: 712
+Provides: org.thebigboss.russiancydia
+Depends: cydia
+Conflicts: org.thebigboss.russiancydia
+Replaces: cydia, org.thebigboss.russiancydia
+Filename: ./debfiles/com.longmen.cydiatranslations_1.1.32~b1_iphoneos-arm.deb
+Size: 76354
+MD5sum: f3f64dc8b400a97b9dea8a946bd65333
+SHA1: 5ab7a8f0cf4d4a4c96c555f78e026080f798894e
+SHA256: fe1b787661990a99acf29713068efc1e728350905f2f648eb8fe34e01f6826fa
+SHA512: abb45e31bb4cd27e5faee26c91f66a3ebe8a89ddcd33387f8f79ea0e0a3e5ea45d64cb60d6348f0eba9d710f2595c375cce13e94634e2704b6134f512a4837bb
+Description: ngôn ngữ và bản dịch cho Cydia
+Tag: purpose::uikit, cydia::essential, role::enduser
+Name: Cydia Translations
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: Gói ngôn ngữ và bản dịch cho Cydia rất quan trọng
+
 Package: com.longmen.hackff.ios.
 Architecture: iphoneos-arm
 Version: 0.1
