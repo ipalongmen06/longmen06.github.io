@@ -552,6 +552,27 @@ Author: Anondev
 Depiction: Bỏ qua thanh toán trong các ứng dụng App Store
 SileoDepiction: Bỏ qua thanh toán trong các ứng dụng App Store
 
+Package: com.longmen06.macpass
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Long Mến <longmenjailbreak@gmail.com>
+Depends: firmware (>=13.0), mobilesubstrate, com.spark.libsparkcolourpicker, com.muirey03.libimagepicker, ws.hbang.common
+Filename: ./debfiles/com.longmen06.macpass_1.1_iphoneos-arm.deb
+Size: 248820
+MD5sum: ee989426a5a93852d44deb7f52f90edb
+SHA1: 60bb21de06db6aeda0031eec9af207d50651fb19
+SHA256: 94769f0527d895342d4ad17da40b43dc63a231fbf9ee4ad1e95cc301c4a1c655
+SHA512: 3d29220703daf775cb641b5657697f6081e45804034f8885e0bc9be17c98054d9c6198ae3985a1efd5734a81d1ee926c6655e3b4a8062bbbd19f34182586e764
+Homepage: https://longmen06.github.io
+Description: Màn hình đăng nhập MacOS cho iOS!Hỗ trợ Ios 13 -> 14.9
+Tag: role::enduser
+Name: MacPass Việt Hoá
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
+Tags: compatible_min::ios13.0, compatible_max::ios14.6
+Author: Long Mến <ethanwhited2208@gmail.com>
+SomeOtherEntryToControl: True
+
 Package: com.longmen06.milkyway4
 Architecture: iphoneos-arm
 Version: 1.1~Beta
