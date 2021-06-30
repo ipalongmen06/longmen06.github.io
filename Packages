@@ -533,6 +533,24 @@ Author: akusio
 Name: KernBypass
 dev: akusio, Long Mến, Bvn, XsF1re
 
+Package: com.longmen06.libimagepicker
+Architecture: iphoneos-arm
+Version: 1.0.4R
+Section: System
+Maintainer: Long Mến
+Installed-Size: 324
+Filename: ./debfiles/com.longmen06.libimagepicker_1.0.4R_iphoneos-arm.deb
+Size: 33524
+MD5sum: a84d3ca3a8f51673eb20c8352c6db0b6
+SHA1: d5012158cb6e16bb5dea2d7a06c7d8949f2d8b72
+SHA256: 907f0789d649c86b4007911ec67214ede26d487e3e937f09d391ed74cbbb221b
+SHA512: db48bc8b7cd3ec29b3158058e8e3c0f4920641e74cbf8d4072eece1e384336b0d59a23f64e90538499284df79dc6d62885a983367fb05b1f6386eb3228510b4d
+Description: Một thư viện đơn giản để chọn hình ảnh trong các gói ưu tiên.
+Tag: role::developer
+Name: libimagepicker
+Author: Long Mến
+Icon: file:///Applications/Cydia.app/Sections/hethongglongmen.png
+
 Package: com.longmen06.localiapstore
 Architecture: iphoneos-arm
 Version: 1.4-5b
