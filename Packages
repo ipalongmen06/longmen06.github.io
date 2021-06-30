@@ -476,6 +476,26 @@ Author: akusio <akusio-report@neko2.net>
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.milkyway4
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.milkyway4
 
+Package: com.longmen06.networkfixer
+Architecture: iphoneos-arm
+Version: 1.2.2-1
+Section: System
+Maintainer: Long Mến <yc992147156@me.com>
+Installed-Size: 132
+Depends: firmware (>= 11.0)
+Conflicts: com.laoyur.network-fixer, com.rockqj.networkfixer
+Filename: ./debfiles/com.longmen06.networkfixer_1.2.2-1_iphoneos-arm.deb
+Size: 8128
+MD5sum: d40f79a603670f9ef598b00597cd5fb7
+SHA1: ed5dab8c3896ef0888189dd645b244eb9e74ec26
+SHA256: 41ae0fd8f0566eeae2a28b04edf2f43d443844a94c058d020b40d420b9f2fca1
+SHA512: 81c35541d2625fa55a52579b763021680c525946cb215272e074311d93951cac17112851832ec0d42cfc67be510d8056aea6c2b2d97b5efd399bb0227defdfa9
+Description: Sửa lỗi mạng ứng dụng cho các dòng máy Trung Quốc.
+Tag: role::hacker
+Name: networkfixer
+Depiction: Sửa lỗi mạng ứng dụng cho các dòng máy Trung Quốc.
+Author: Long Mến <yc992147156@me.com>
+
 Package: com.longmen06.volumebar12
 Architecture: iphoneos-arm
 Version: 1.0-2+debug
