@@ -323,6 +323,24 @@ Name: AppSync Unified (5/14.5)
 Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.longmen06.cydownvn
+Architecture: iphoneos-arm
+Version: 7.1.1
+Section: Tweaks
+Maintainer: Long Mến <longmenjailbreak@gmail.com>
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Filename: ./debfiles/com.longmen06.cydownvn_7.1.1_iphoneos-arm.deb
+Size: 4366198
+MD5sum: 2d15d882cda60e9f1bc50578b5ce3347
+SHA1: 6e242516bee37a79f25eb48abea28f546a1532eb
+SHA256: da19281b29e11c3fae2e34fa4ef0acec142fedb81da92b4eb8cefeb6de35ec8e
+SHA512: 4f8cd754b7cbcc174f938bcfcc571363e0892e02783aeca89a949a92c76de4d8f19b45f1018739b2404654e12df4fe441d47aaa240e3a39505ea3c2fb0538315
+Homepage: http://twitter.com/ijulioverne
+Description: Hack các Tweak ở các nguồn khác nhau,sao lưu&khôi phục các nguồn và tinh chỉnh trực tuyến,chặn quảng cáo và nhiều chức năng khác!
+Name: CyDown
+Author: julioverne <julioverne@me.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
+
 Package: com.longmen06.faceid
 Architecture: iphoneos-arm
 Version: 1.1-20b
@@ -344,6 +362,25 @@ Author: Elijah Frederickson, julioverne
 dev: elijahfrederickson
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 Depiction: https://longmen06.github.io/Debinfo/faceid/?p=info
+
+Package: com.longmen06.filza64bit
+Architecture: iphoneos-arm
+Version: 3.8.2-6
+Section: Utilities
+Maintainer: Long Mến
+Installed-Size: 21788
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza
+Filename: ./debfiles/com.longmen06.filza64bit_3.8.2-6_iphoneos-arm.deb
+Size: 8422384
+MD5sum: e8e48c78131a612c4f4115d2d3bc2dfa
+SHA1: de08c86cad269907d3bb4335ea20da4096f4ba3a
+SHA256: 9be904bad5a1e9c6615b209d1f5d1e2fd4a9c93734041b4ee1ac8d89c9606587
+SHA512: f678bf7a137f3421bce3d1475f6e9d720fe6edfe125a04994695486bf8158e8a0b27edc250387e489ea38575d7319373aeb509b0966d062ac1f701aed552a021
+Description: Trình quản lý tập tin cho iOS của bạn!
+Name: Filza File Manager VH
+Author: TIGI Software
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
 Package: com.longmen06.freefire
 Architecture: iphoneos-arm
