@@ -323,6 +323,23 @@ Name: AppSync Unified (5/14.5)
 Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.longmen06.cracktool4ios1214
+Architecture: iphoneos-arm
+Version: 4.1
+Section: Utilities
+Maintainer: Long Mến<longmenjailbreak@gmail.com>
+Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Filename: ./debfiles/com.longmen06.cracktool4ios1214_4.1_iphoneos-arm.deb
+Size: 729708
+MD5sum: 04d10c89da1ac4e72d68bc38c1647bfa
+SHA1: eb8100dd1783fc3dd1a3ca1ccc2f5de780db0c4c
+SHA256: e5635783078b015d7e0296ed1b426fdae5823bbbe626d33112f2932a05fd3aa1
+SHA512: 453ee961a0133588323bca85b033e59b9c2bf443f7df5772d2a687acddfa5ab47e0f05147458c96bcc817ff6d2e409254aa2ca7ff0bb1997daf5564adb30628e
+Description: Crack Tweaks chỉ với một cú nhấp chuột,Phiên bản 4.1 hỗ trợ Crack All Tweaks Của IKARWAN,Ví dụ như Tweaks Youtubekiller và 1 số Tweaks trong nguồn:repo.ikghd.com
+Name: CrackTool4 (iOS 12/14)
+Author: fahlnbg/julioverne <nhatbien97@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tienichhlongmen.png
+
 Package: com.longmen06.cydownvn
 Architecture: iphoneos-arm
 Version: 7.1.1
