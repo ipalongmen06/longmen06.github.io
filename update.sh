@@ -5,7 +5,7 @@ if [[ -e compatity.txt ]]; then
     compatity=$(cat compatity.txt)
 fi
 
-for i in DEB/*.deb
+for i in debfiles/*.deb
 do
    debInfo=`dpkg -f $i`
    pkg=`echo "$debInfo" | grep "Package: " | cut -c 10- | tr -d "\n\r"`
@@ -49,14 +49,14 @@ done
 echo "{}]" >> all.pkgs
 }
 echo "------------------"
-echo "Đang tạo Packages...."
-apt-ftparchive packages ./DEB > ./Packages;
+echo "Building Packages...."
+apt-ftparchive packages ./debfiles > ./Packages;
 #sed -i -e '/^SHA/d' ./Packages;
 bzip2 -c9k ./Packages > ./Packages.bz2;
 echo "------------------"
-echo "Đang tạo Release...."
+echo "Building Release...."
 printf "Origin: Long Mến❤️\nLabel: Long Mến❤️\nSuite: stable\nVersion: 1.0\nCodename: ios\nArchitecture: iphoneos-arm\nComponents: main\nDescription: Repo by Long Mến❤️\nMD5Sum:\n "$(cat ./Packages | md5sum | cut -d ' ' -f 1)" "$(stat ./Packages --printf="%s")" Packages\n "$(cat ./Packages.bz2 | md5sum | cut -d ' ' -f 1)" "$(stat ./Packages.bz2 --printf="%s")" Packages.bz2\n" >Release;
 
 echo "------------------"
-echo "Xong !"
+echo "Done!"
 exit 0;
