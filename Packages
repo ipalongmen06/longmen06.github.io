@@ -323,6 +323,26 @@ Name: AppSync Unified (5/14.5)
 Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.longmen06.cloneappcmd
+Architecture: iphoneos-arm
+Version: 1.0~b3
+Section: Development
+Maintainer: Long Mến <longmenjailbreak@gmail.com>
+Depends: plutil, com.supportjailbreak.myinst
+Filename: ./debfiles/com.longmen06.cloneappcmd_1.0~b3_iphoneos-arm.deb
+Size: 2756
+MD5sum: 5c318c5d239f7b0675ae73d2afea66e1
+SHA1: 4685775d240703bea75e19ce7fe9175e3b357178
+SHA256: b263cd3f67fc8b655fac10714ed22ccfb95b50895490ee66597dbe463ce982ac
+SHA512: fb429371452cfea4a15d69d0578956d9093d71bf48b0ab95219f3b81dfac6ab19c00a30c86f79ddc20d5ccb549ff2cb5b4f334cdc181cea68fbb8d7e39887ca5
+Homepage: https://bvnsupport-jailbreak.github.io/
+Description: Lệnh sử dụng ứng dụng nhân bản,cài thêm gói Plutil&Git để sử dụng. cloneapp <CFBundleDisplayName | CFBundleIdent | CFBundleName>
+Name: Clone App Command
+Author: shin-chan
+Sponsor: bienvannhat <https://longmen06.github.io/>
+Depiction: Lệnh sử dụng ứng dụng nhân bản,cài thêm gói Plutil&Git để sử dụng.
+Icon: file:///Applications/Cydia.app/Sections/phattriennlongmen.png
+
 Package: com.longmen06.cracktool4ios1214
 Architecture: iphoneos-arm
 Version: 4.1
